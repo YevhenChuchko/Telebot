@@ -1,4 +1,4 @@
-# Telebot
+# Telebot '.Context'
 // main.go
 package main
 
